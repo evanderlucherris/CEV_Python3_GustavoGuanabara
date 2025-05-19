@@ -1,92 +1,92 @@
-# 🧠 Python 3 – Mundo 3: Estruturas, Funções e Tratamento de Erros
+# 🧠 Python 3 – World 3: Data Structures, Functions, and Error Handling
 
-Este repositório reúne os estudos, exercícios e projetos desenvolvidos durante o **Mundo 3** do curso de Python 3.  
-Neste módulo, aprofundei meus conhecimentos sobre **estruturas de dados**, **funções**, **modularização** e **tratamento de erros** — pilares fundamentais para escrever códigos mais limpos, organizados e profissionais.
-
----
-
-## 📚 Conteúdo Estudado
-
-### 📦 Estruturas de Dados
-Aprendi a utilizar **tuplas**, **listas** e **dicionários**, compreendendo a importância de cada estrutura e quando utilizá-las nos projetos.
-
-- ✅ **Tuplas**: imutáveis, leves e ideais para dados fixos.
-- ✅ **Listas**: versáteis e mutáveis, excelentes para coleções dinâmicas.
-- ✅ **Dicionários**: armazenamento de dados com **chave-valor**, essencial para estruturas complexas.
-
-> Cada aula foi acompanhada por exercícios práticos, que me ajudaram a fixar os conceitos e aplicar os conhecimentos em situações reais.
+This repository gathers the studies, exercises, and projects developed during **World 3** of the Python 3 course.  
+In this module, I deepened my knowledge of **data structures**, **functions**, **modularization**, and **error handling** — fundamental pillars for writing cleaner, more organized, and professional code.
 
 ---
 
-### 🔁 Funções, Módulos e Pacotes
-A modularização é essencial para projetos escaláveis. Neste módulo, aprendi:
+## 📚 Topics Covered
 
-- ✅ A criar **funções personalizadas** para evitar repetição de código.
-- ✅ A estruturar projetos com **módulos** e **pacotes** reutilizáveis.
-- ✅ A organizar aplicações em **componentes lógicos**.
+### 📦 Data Structures
+I learned how to use **tuples**, **lists**, and **dictionaries**, understanding the importance of each structure and when to use them in projects.
 
-> As aulas simularam projetos reais, tornando o aprendizado prático e aplicável.
+- ✅ **Tuples**: immutable, lightweight, and ideal for fixed data.
+- ✅ **Lists**: versatile and mutable, great for dynamic collections.
+- ✅ **Dictionaries**: key-value data storage, essential for complex structures.
 
----
-
-### ⚠️ Tratamento de Erros
-Aprendi a lidar com exceções de forma profissional, tornando meus códigos mais **seguros**, **robustos** e **tolerantes a falhas**.
-
-- Uso de `try`, `except`, `else`, `finally`
-- Validação de entrada de dados
-- Verificação de acessibilidade de sites e arquivos
-- Criação de menus e arquivos com Python
+> Each lesson was accompanied by practical exercises that helped solidify concepts and apply knowledge to real-life situations.
 
 ---
 
-## 🧪 Módulos e Exercícios
+### 🔁 Functions, Modules, and Packages
+Modularization is key for scalable projects. In this module, I learned to:
 
-### 📁 Tuplas em Python (7 aulas)
+- ✅ Create **custom functions** to avoid code repetition.
+- ✅ Structure projects with **modules** and **reusable packages**.
+- ✅ Organize applications into **logical components**.
 
-- Aula 16 – Introdução às Tuplas  
-- Exercícios: Números por extenso, times de futebol, análise de tuplas, contagem de vogais etc.
-
-### 📁 Listas em Python (14 aulas)
-
-- Aulas 17 e 18 – Trabalhando com Listas  
-- Exercícios: listas ordenadas, listas compostas, validação de expressões, matrizes, Mega Sena, boletins escolares etc.
-
-### 📁 Dicionários em Python (7 aulas)
-
-- Aula 19 – Trabalhando com Dicionários  
-- Exercícios: cadastro de trabalhadores e jogadores, jogo de dados, união de listas e dicionários.
-
-### 📁 Funções em Python (13 aulas)
-
-- Aulas 20 e 21 – Criando e otimizando funções  
-- Exercícios: contador, validações, votação, fatorial, ficha do jogador, dicionários dinâmicos, sistema de ajuda.
-
-### 📁 Modularização em Python (7 aulas)
-
-- Aula 22 – Módulos e Pacotes  
-- Exercícios: formatando moedas, organizando pacotes, entrada de dados monetários.
-
-### 📁 Tratamento de Erros em Python (6 aulas)
-
-- Aula 23 – Exceções e controle de fluxo  
-- Exercícios: acessibilidade de sites, sistema de arquivos, menus interativos.
+> The lessons simulated real-world projects, making the learning experience practical and applicable.
 
 ---
 
-## 🎮 Aprendizado com Gamificação
+### ⚠️ Error Handling
+I learned to handle exceptions professionally, making my code more **secure**, **robust**, and **fault-tolerant**.
 
-A temática de videogame adotada no curso transforma o aprendizado em uma experiência envolvente e motivadora.  
-Cada aula representa um "nível" superado e os **links de revisão** facilitam o retorno a conteúdos anteriores sempre que necessário.
+- Using `try`, `except`, `else`, `finally`
+- Input validation
+- Checking file and website accessibility
+- Creating menus and working with files in Python
 
 ---
 
-## 🏁 Conclusão
+## 🧪 Modules and Exercises
 
-Ao final do **Mundo 3**, construí uma base sólida em:
+### 📁 Tuples in Python (7 lessons)
 
-- 📌 Estruturas de Dados
-- 📌 Funções e Modularização
-- 📌 Tratamento de Erros
+- Lesson 16 – Introduction to Tuples  
+- Exercises: number-to-text, football teams, tuple analysis, vowel counting, etc.
 
-Estou agora preparado para enfrentar projetos mais complexos com confiança e clareza.  
-Vamos juntos para o próximo nível na jornada Python! 🚀
+### 📁 Lists in Python (14 lessons)
+
+- Lessons 17 & 18 – Working with Lists  
+- Exercises: ordered lists, nested lists, expression validation, matrices, lottery simulator, school reports, etc.
+
+### 📁 Dictionaries in Python (7 lessons)
+
+- Lesson 19 – Working with Dictionaries  
+- Exercises: worker and player registries, dice game, merging lists and dictionaries.
+
+### 📁 Functions in Python (13 lessons)
+
+- Lessons 20 & 21 – Creating and optimizing functions  
+- Exercises: counters, validation, voting system, factorials, player stats, dynamic dictionaries, help system.
+
+### 📁 Modularization in Python (7 lessons)
+
+- Lesson 22 – Modules and Packages  
+- Exercises: formatting currencies, organizing packages, monetary input validation.
+
+### 📁 Error Handling in Python (6 lessons)
+
+- Lesson 23 – Exceptions and flow control  
+- Exercises: website accessibility, file system navigation, interactive menus.
+
+---
+
+## 🎮 Learning Through Gamification
+
+The videogame-inspired theme of the course turned learning into an engaging and motivating experience.  
+Each lesson represented a "level" completed, and the **review links** made it easy to revisit previous content whenever needed.
+
+---
+
+## 🏁 Conclusion
+
+By the end of **World 3**, I built a solid foundation in:
+
+- 📌 Data Structures  
+- 📌 Functions and Modularization  
+- 📌 Error Handling
+
+I’m now prepared to take on more complex projects with confidence and clarity.  
+Let’s move on to the next level in the Python journey! 🚀
