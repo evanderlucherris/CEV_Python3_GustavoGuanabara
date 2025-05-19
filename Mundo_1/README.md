@@ -1,47 +1,47 @@
-# 💻 Python 3 – Mundo 1: Minha Introdução à Programação
+# 💻 Python 3 – World 1: My Introduction to Programming
 
-Este repositório reúne os **exercícios e projetos** que desenvolvi ao longo do curso **“Python 3 – Mundo 1”**, oferecido gratuitamente como introdução à linguagem Python. Foi aqui que iniciei minha jornada no universo da programação, partindo do zero e aprendendo os **fundamentos essenciais** de forma prática e acessível.
-
----
-
-## 🧠 O que aprendi neste módulo?
-
-- **Primeiros passos com Python:** Instalação do interpretador, uso do IDLE e ambientes de desenvolvimento.
-- **Tipos primitivos:** Números, textos, booleanos e como manipulá-los.
-- **Entrada e saída de dados:** Comando `input()` e formatações com `print()`.
-- **Operadores matemáticos:** Aritmética básica e operadores lógicos.
-- **Manipulação de strings:** Fatiamento, análise, transformações e validações.
-- **Módulos externos:** Uso de bibliotecas como `math`, `random`, `playsound`, entre outras.
-- **Estruturas condicionais:** Lógica com `if`, `elif`, `else`.
-- **Programas interativos:** Aplicações com lógica de decisão e feedback visual com cores.
+This repository gathers the **exercises and projects** I developed throughout the course **“Python 3 – World 1”**, offered for free as an introduction to the Python language. This was where I began my journey into the world of programming, starting from scratch and learning the **essential fundamentals** in a practical and accessible way.
 
 ---
 
-## 🧩 Aprendizados além do código
+## 🧠 What did I learn in this module?
 
-Mais do que apenas escrever comandos, aprendi que programar é sobre **resolver problemas**, pensar com **lógica** e desenvolver um **novo modo de raciocínio**. O curso me ajudou a:
-
-- Superar o medo de começar do zero;
-- Perceber que **não é preciso ser um gênio da matemática ou do inglês** para aprender a programar;
-- Entender que **praticar é essencial** — cada exercício reforçou o conteúdo e a confiança.
-
----
-
-## 🚀 Por que Python?
-
-O Python é uma linguagem clara, versátil e extremamente popular em diversas áreas, como:
-
-- 🌐 Desenvolvimento Web
-- ⚙️ Automação de tarefas
-- 📊 Análise de dados
-- 🧠 Inteligência Artificial e Machine Learning
-
-Começar com Python foi uma **escolha estratégica**, pois além de facilitar o aprendizado, ele abre portas para inúmeras oportunidades no mercado de tecnologia.
+- **First steps with Python:** Installing the interpreter, using IDLE, and exploring development environments.
+- **Primitive data types:** Numbers, text, booleans, and how to manipulate them.
+- **Input and output operations:** Using the `input()` command and formatting with `print()`.
+- **Mathematical operators:** Basic arithmetic and logical operators.
+- **String manipulation:** Slicing, analysis, transformations, and validations.
+- **External modules:** Using libraries like `math`, `random`, `playsound`, and others.
+- **Conditional structures:** Logic with `if`, `elif`, `else`.
+- **Interactive programs:** Applications with decision logic and visual feedback using colors.
 
 ---
 
-## 📈 Conclusão
+## 🧩 Lessons Beyond Code
 
-O **Mundo 1** foi a minha base. Ele me deu confiança e conhecimento para seguir com firmeza nos próximos módulos. A cada linha de código, descubro novas possibilidades e me sinto mais preparado para os desafios da programação moderna.
+More than just writing commands, I learned that programming is about **solving problems**, thinking **logically**, and developing a **new way of reasoning**. The course helped me:
 
-> Este é apenas o começo da minha jornada. 🚀
+- Overcome the fear of starting from scratch;
+- Realize that **you don’t need to be a math or English genius** to learn how to program;
+- Understand that **practice is essential** — each exercise reinforced the content and built my confidence.
+
+---
+
+## 🚀 Why Python?
+
+Python is a clear, versatile, and extremely popular language used in various fields such as:
+
+- 🌐 Web Development  
+- ⚙️ Task Automation  
+- 📊 Data Analysis  
+- 🧠 Artificial Intelligence and Machine Learning  
+
+Starting with Python was a **strategic choice**. It not only made learning easier but also opened doors to countless opportunities in the tech industry.
+
+---
+
+## 📈 Conclusion
+
+**World 1** was my foundation. It gave me the confidence and knowledge to move forward with determination in the next modules. With each line of code, I discover new possibilities and feel more prepared for the challenges of modern programming.
+
+> This is just the beginning of my journey. 🚀
