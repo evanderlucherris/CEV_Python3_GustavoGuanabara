@@ -1,42 +1,41 @@
-# 🌍 Python 3 – Mundo 2: Estruturas de Repetição e Controle de Fluxo
+# 🌍 Python 3 – World 2: Loops and Flow Control Structures
 
-Depois de concluir o primeiro módulo do curso, avancei para o **Mundo 2**, onde mergulhei de vez nas **estruturas de controle de fluxo** e **repetição** do Python. Neste estágio da jornada, aprendi a dominar comandos fundamentais como `if`, `else`, `elif`, `for` e `while`, que são a espinha dorsal de qualquer programa que toma decisões ou executa ações repetidamente.
+After completing the first module of the course, I moved on to **World 2**, where I fully immersed myself in Python’s **flow control** and **loop structures**. At this stage of the journey, I learned to master fundamental commands like `if`, `else`, `elif`, `for`, and `while`, which are the backbone of any program that makes decisions or performs repeated actions.
 
-Assim como no Mundo 1, a metodologia continua gamificada, tornando o aprendizado mais leve e prático. As aulas foram construídas de forma clara e progressiva, facilitando a assimilação mesmo de temas mais desafiadores.
-
----
-
-## 🧠 O que aprendi neste módulo?
-
-- **Condições:** Uso de `if`, `elif` e `else` para controle de decisões.
-- **Laços de repetição:** Criação de repetições com `for` e `while`.
-- **Boas práticas:** Dicas para evitar armadilhas e escrever código limpo.
-- **Aplicações reais:** Exercícios baseados em situações do dia a dia da programação.
+Just like in World 1, the methodology remains gamified, making learning lighter and more practical. The lessons were structured in a clear and progressive way, making it easier to absorb even more challenging topics.
 
 ---
 
-## ✅ Meu progresso
+## 🧠 What did I learn in this module?
 
-Durante o módulo, resolvi mais de **40 exercícios práticos**, como:
-
-- 🧮 Menu interativo com `while`
-- 🐍 Sequência de Fibonacci
-- 🎮 Jogo de Pedra, Papel e Tesoura
-- 🏦 Simulação de um caixa eletrônico
-- 📊 Análise de grupos e estatísticas
-
-Outros temas explorados:
-
-- Validação de entradas
-- Números primos
-- Contadores e acumuladores
-- Laços com condição de parada (flag)
+- **Conditions:** Using `if`, `elif`, and `else` for decision-making.
+- **Loop structures:** Creating repetitions with `for` and `while`.
+- **Best practices:** Tips to avoid pitfalls and write clean code.
+- **Real-world applications:** Exercises based on day-to-day programming situations.
 
 ---
 
-## 🚀 Conclusão
+## ✅ My Progress
 
-Este módulo foi essencial para reforçar minha lógica de programação e me preparar para desafios mais complexos. Ao entender profundamente como usar estruturas condicionais e de repetição, pude criar programas mais dinâmicos e inteligentes.
+Throughout the module, I completed over **40 practical exercises**, such as:
 
-Se você está aprendendo Python, recomendo fortemente concluir o Mundo 1 antes de embarcar nesse. Com uma boa base, o Mundo 2 se torna ainda mais proveitoso!
+- 🧮 Interactive menu using `while`
+- 🐍 Fibonacci sequence
+- 🎮 Rock, Paper, Scissors game
+- 🏦 ATM simulation
+- 📊 Group analysis and statistics
 
+Other topics covered:
+
+- Input validation
+- Prime numbers
+- Counters and accumulators
+- Loops with stop conditions (flags)
+
+---
+
+## 🚀 Conclusion
+
+This module was essential for strengthening my programming logic and preparing me for more complex challenges. By deeply understanding how to use conditional and loop structures, I was able to create more dynamic and intelligent programs.
+
+If you're learning Python, I highly recommend completing World 1 before diving into this one. With a solid foundation, World 2 becomes even more rewarding!
