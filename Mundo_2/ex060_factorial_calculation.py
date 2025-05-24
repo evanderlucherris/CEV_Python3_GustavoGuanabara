@@ -1,3 +1,10 @@
+'''
+Python Exercise 060:
+Write a program that reads any number and shows its factorial. Example:
+5! = 5 x 4 x 3 x 2 x 1 = 120
+'''
+
+
 '''from math import factorial
 n = int(input('Digite um número para calcular o seu fatorial: '))
 f = factorial(n)

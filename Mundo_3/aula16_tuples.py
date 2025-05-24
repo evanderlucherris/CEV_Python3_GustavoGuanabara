@@ -1,3 +1,9 @@
+'''
+In this lesson, we will learn what tuples are and how to use them in Python. 
+Tuples are composite and immutable variables that allow you to store multiple values in a single structure, 
+accessible through individual indexes.
+'''
+
 lanche = ('Hamburguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 #Tuplas são imutáveis
 # lanche[1] = 'Refrigerante' NÃO É POSSIVEL SUBSTITUIR VALORES EM TUPLAS.

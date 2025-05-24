@@ -1,3 +1,10 @@
+'''
+Python Exercise 011:
+Write a program that reads the width and height of a wall in meters, 
+calculates its area, and the amount of paint needed to paint it, 
+knowing that each liter of paint covers 2 square meters.
+'''
+
 largura = float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))
 area = largura * altura

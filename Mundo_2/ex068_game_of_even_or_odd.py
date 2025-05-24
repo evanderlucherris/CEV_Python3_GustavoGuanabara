@@ -1,3 +1,10 @@
+'''
+Python Exercise 068:
+Write a program that plays Even or Odd with the computer. 
+The game will only stop when the player loses, 
+showing the total number of consecutive wins the player achieved at the end of the game.
+'''
+
 from random import randint
 v = 0
 while True:

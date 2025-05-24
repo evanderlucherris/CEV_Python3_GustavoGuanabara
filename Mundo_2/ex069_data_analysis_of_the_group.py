@@ -1,3 +1,13 @@
+'''
+Python Exercise 069:
+Create a program that reads the age and gender of several people. 
+After each person is registered, the program should ask the user whether they want to continue. 
+At the end, show:
+A) How many people are over 18 years old.
+B) How many men were registered.
+C) How many women are under 20 years old.
+'''
+
 tot18 = totH = totM20 = 0
 while True:
     idade = int(input('Idade: '))

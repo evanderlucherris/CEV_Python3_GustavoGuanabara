@@ -1,3 +1,9 @@
+'''
+Python Exercise 048:
+Write a program that calculates the sum of all numbers that are multiples 
+of three and are within the range from 1 to 500.
+'''
+
 soma = 0
 cont = 0
 for c in range(1, 501, 2):

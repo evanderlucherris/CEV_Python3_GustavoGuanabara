@@ -1,3 +1,9 @@
+'''
+Python Exercise 020:
+The same teacher from exercise 19 wants to randomly determine the order of student presentations. 
+Write a program that reads the names of four students and displays the randomized order.
+'''
+
 from random import shuffle
 a1 = str(input('Primeiro aluno: '))
 a2 = str(input('Segundo aluno: '))

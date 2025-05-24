@@ -1,3 +1,10 @@
+'''
+Python Exercise 063:
+Write a program that reads any integer N and displays the first N elements of the Fibonacci sequence. 
+Example:
+0 – 1 – 1 – 2 – 3 – 5 – 8
+'''
+
 print('-' * 30)
 print('SEQUÊNCIA DE FIBONACCI')
 print('-' * 30)

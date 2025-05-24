@@ -1,3 +1,8 @@
+'''
+Python Exercise 052:
+Write a program that reads an integer and tells whether it is a prime number or not.
+'''
+
 tot = 0
 num = int(input('\033[mDigite um número: '))
 for c in range(1, num + 1):

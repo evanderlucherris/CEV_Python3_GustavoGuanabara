@@ -1,3 +1,8 @@
+'''
+Python Exercise 018:
+Write a program that reads any angle and displays the sine, cosine, and tangent values of that angle.
+'''
+
 from math import radians, sin, cos, tan
 ang = float(input('Digite o ângulo que você deseja: '))
 rad = radians(ang)

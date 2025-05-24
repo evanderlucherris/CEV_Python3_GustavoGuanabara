@@ -1,3 +1,9 @@
+'''
+Python Exercise 072:
+Create a program that has a fully populated tuple with the written form of the numbers from zero to twenty. 
+The program should read a number from the keyboard (between 0 and 20) and display it in words.
+'''
+
 cont = ('Zero', 'Um', 'Dois', 'Três', 'Quatro', 'Cinco',
         'Seis', 'Sete', 'Oito', 'Nove', 'Dez',
         'Onze', 'Doze', 'Treze', 'Quatorze', 'Quinze',

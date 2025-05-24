@@ -1,3 +1,10 @@
+'''
+Python Exercise 051:
+Develop a program that reads the first term and the common difference 
+of an arithmetic progression (AP). 
+At the end, display the first 10 terms of this progression.
+'''
+
 print('=' * 30)
 print('{:^30}'.format('10 TERMOS DE UMA PA'))
 print('=' * 30)

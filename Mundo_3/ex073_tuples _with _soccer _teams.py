@@ -1,3 +1,13 @@
+'''
+Create a tuple filled with the top 20 teams from the Brazilian Football Championship table, 
+in their current ranking order. Then display:
+
+a) The top 5 teams.
+b) The last 4 teams.
+c) Teams in alphabetical order.
+d) The position of the team "Chapecoense".
+'''
+
 times = ('Palmeiras', 'Flamengo', 'Cruzeiro', 'Bragantino',
          'Ceará SC', 'Bahia', 'Fluminense', 'Corinthians',
          'Atlético MG', 'Botafogo', 'São Paulo', 'Mirassol',

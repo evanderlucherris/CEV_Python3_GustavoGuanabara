@@ -1,3 +1,10 @@
+'''
+Python Exercise 067:
+Write a program that shows the multiplication table of several numbers, 
+one at a time, for each value entered by the user. 
+The program will be interrupted when a negative number is requested.
+'''
+
 while True:
     n = int(input('Quer ver a tabuada de qual valor: '))
     print('-' * 30)

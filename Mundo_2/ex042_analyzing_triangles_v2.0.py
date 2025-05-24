@@ -1,3 +1,11 @@
+'''
+Python Exercise 042:
+Redo CHALLENGE 35 about triangles, adding the feature to show what type of triangle will be formed:
+EQUILATERAL: all sides equal
+ISOSCELES: two sides equal, one different
+SCALENE: all sides different
+'''
+
 print('-=-' * 10)
 print('ANALISADOR DE TRIÂNGULOS')
 print('-=-' * 10)

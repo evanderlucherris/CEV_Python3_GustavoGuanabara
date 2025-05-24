@@ -1,3 +1,9 @@
+'''
+Python Exercise 054:
+Create a program that reads the birth year of seven people. 
+At the end, show how many people are still underage and how many are adults.
+'''
+
 from datetime import date
 atual = date.today().year
 totmaior = 0

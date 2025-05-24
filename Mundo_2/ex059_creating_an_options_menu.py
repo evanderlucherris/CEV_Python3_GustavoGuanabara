@@ -1,3 +1,14 @@
+'''
+Python Exercise 059:
+Create a program that reads two values and shows a menu on the screen:
+[ 1 ] add
+[ 2 ] multiply
+[ 3 ] find the greater
+[ 4 ] enter new numbers
+[ 5 ] exit the program
+Your program should perform the requested operation in each case.
+'''
+
 from time import sleep
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))

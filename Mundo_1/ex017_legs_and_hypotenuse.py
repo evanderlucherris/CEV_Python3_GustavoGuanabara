@@ -1,4 +1,10 @@
 '''
+Python Exercise 017:
+Write a program that reads the length of the opposite and adjacent legs of a right triangle. 
+Calculate and display the length of the hypotenuse.
+'''
+
+'''
 from math import hypot
 co = float(input('Comprimento do cateto oposto: '))
 ca = float(input('Comprimento do cateto adjacente: '))

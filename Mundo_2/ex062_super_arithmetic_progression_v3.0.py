@@ -1,3 +1,9 @@
+'''
+Python Exercise 062:
+Improve CHALLENGE 61 by asking the user if they want to show more terms. 
+The program will end when the user says they want to show 0 terms.
+'''
+
 print('GERADOR DE PA')
 print('=-' * 10)
 primeiro = int(input('Primeiro termo: '))

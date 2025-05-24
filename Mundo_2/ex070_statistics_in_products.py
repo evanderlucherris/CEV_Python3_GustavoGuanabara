@@ -1,3 +1,13 @@
+'''
+Python Exercise 070:
+Create a program that reads the name and price of several products. 
+The program should ask the user whether they want to continue. 
+At the end, show:
+A) The total amount spent on the purchase.
+B) How many products cost more than R$1000.
+C) The name of the cheapest product.
+'''
+
 total = totmil = menor = cont = 0
 barato = ''
 while True:

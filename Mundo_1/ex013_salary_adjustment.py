@@ -1,3 +1,8 @@
+'''
+Python Exercise 013:
+Create an algorithm that reads an employee’s salary and shows their new salary with a 15% raise.
+'''
+
 salario = float(input('Qual é o salário do funcionário: '))
 novo = salario + (salario * 15 / 100)
 

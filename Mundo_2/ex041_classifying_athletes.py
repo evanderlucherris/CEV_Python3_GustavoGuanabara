@@ -1,3 +1,14 @@
+'''
+Python Exercise 041:
+The National Swimming Confederation needs a program that reads an athlete’s birth year 
+and shows their category according to their age:
+Up to 9 years: MIRIM
+Up to 14 years: INFANTIL
+Up to 19 years: JÚNIOR
+Up to 25 years: SÊNIOR
+Above 25 years: MASTER
+'''
+
 from datetime import date
 
 ano = int(input('Ano de nascimento: '))

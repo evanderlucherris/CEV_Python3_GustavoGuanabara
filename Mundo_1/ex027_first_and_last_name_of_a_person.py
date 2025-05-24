@@ -1,3 +1,8 @@
+'''
+Python Exercise 027:
+Write a program that reads a person’s full name, then displays the first and last name separately.
+'''
+
 '''nome = str(input('Digite o seu nome completo: ')).strip().split()
 print('Muito prazer em te conhecer!')
 

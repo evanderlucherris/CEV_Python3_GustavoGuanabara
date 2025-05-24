@@ -1,3 +1,10 @@
+'''
+Python Exercise 065:
+Create a program that reads multiple integers from the keyboard. 
+At the end of execution, show the average of all values and the highest and lowest values read. 
+The program should ask the user whether they want to continue entering values or not.
+'''
+
 resp = 'S'
 soma = quant = media = maior = menor = 0
 while resp in 'Ss':

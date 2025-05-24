@@ -1,3 +1,8 @@
+'''
+Python Exercise 033:
+Write a program that reads three numbers and shows which one is the greatest and which one is the smallest.
+'''
+
 '''n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
 n3 = int(input('terceiro valor: '))

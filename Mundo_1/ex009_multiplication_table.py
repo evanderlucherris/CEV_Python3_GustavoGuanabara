@@ -1,3 +1,8 @@
+'''
+Python Exercise 009:
+Write a program that reads any integer and displays its multiplication table.
+'''
+
 num = int(input('Digite um número para ver a sua tabuada: '))
 
 '''

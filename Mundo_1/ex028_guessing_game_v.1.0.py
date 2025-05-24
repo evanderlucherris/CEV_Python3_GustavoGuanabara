@@ -1,3 +1,10 @@
+'''
+Python Exercise 028:
+Write a program that makes the computer “think” of an integer between 0 and 5 
+and asks the user to try to guess the number chosen by the computer. 
+The program should display whether the user won or lost.
+'''
+
 from random import randint
 from time import sleep
 computador = randint(1, 5) #FAZ O COMPUTADOR "PENSAR"

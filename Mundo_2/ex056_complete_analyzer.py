@@ -1,3 +1,10 @@
+'''
+Python Exercise 056:
+Develop a program that reads the name, age, and gender of 4 people. 
+At the end of the program, show: the average age of the group, 
+the name of the oldest man, and how many women are under 20 years old.
+'''
+
 somaidade = 0
 mediaidade = 0
 maioridadehomem = 0

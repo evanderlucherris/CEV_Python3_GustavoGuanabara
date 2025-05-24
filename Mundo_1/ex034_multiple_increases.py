@@ -1,3 +1,10 @@
+'''
+Python Exercise 034:
+Write a program that asks for an employee’s salary and calculates the amount of their raise. 
+For salaries above R$1250.00, calculate a 10% raise. 
+For salaries equal to or below that, the raise is 15%.
+'''
+
 salario = float(input('Qual é o salário do funcionário: R$'))
 
 if salario <= 1250.00:

@@ -1,3 +1,8 @@
+'''
+Python Exercise 045:
+Create a program that lets the computer play Rock-Paper-Scissors (Jokenpô) with you.
+'''
+
 from random import randint
 from time import sleep
 itens = ('Pedra', 'Papel', 'tesoura')

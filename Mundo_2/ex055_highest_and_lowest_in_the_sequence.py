@@ -1,3 +1,9 @@
+'''
+Python Exercise 055:
+Write a program that reads the weight of five people. At the end, 
+show which was the heaviest and the lightest weight recorded.
+'''
+
 maior = 0
 menor = 0
 for p in range(1, 6):

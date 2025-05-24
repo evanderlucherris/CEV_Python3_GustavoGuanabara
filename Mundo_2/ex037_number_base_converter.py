@@ -1,3 +1,9 @@
+'''
+Python Exercise 037:
+Write a Python program that reads any integer and asks the user to choose the base for conversion: 
+1 for binary, 2 for octal, and 3 for hexadecimal.
+'''
+
 num = int(input('Digite um número inteiro: '))
 print('''Digite uma das bases para conversão:
       [ 1 ] Converter para BINÁRIO.

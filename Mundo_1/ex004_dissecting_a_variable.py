@@ -1,3 +1,9 @@
+'''
+Python Exercise 004:
+Write a program that reads something from the keyboard 
+and displays its primitive type and all possible information about it.
+'''
+
 n = input('Digite algo: ')
 
 print('O tipo primitivo desse valor é', type(n))

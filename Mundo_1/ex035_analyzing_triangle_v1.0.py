@@ -1,3 +1,8 @@
+'''
+Python Exercise 035:
+Develop a program that reads the length of three line segments and tells the user whether or not they can form a triangle.
+'''
+
 print('-=-' * 10)
 print('ANALISADOR DE TRIÂNGULOS')
 print('-=-' * 10)

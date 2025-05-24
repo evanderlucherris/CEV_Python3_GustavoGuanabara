@@ -1,3 +1,9 @@
+'''
+Python Exercise 031:
+Develop a program that asks for the distance of a trip in kilometers. 
+Calculate the ticket price, charging R$0.50 per km for trips up to 200 km and R$0.45 for longer trips.
+'''
+
 '''distancia = float(input('Qual é a distância da sua viagem? '))
 print('Você está prestes a começar uma viagem de {:.1f}Km.'.format(distancia))
 
