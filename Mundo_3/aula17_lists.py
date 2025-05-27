@@ -1,7 +1,7 @@
 '''
-Nessa aula, vamos aprender o que são LISTAS e como utilizar listas em Python. 
-As listas são variáveis compostas que permitem armazenar vários valores em uma mesma estrutura, 
-acessíveis por chaves individuais.
+in this lesson, we will learn what lists are and how to use lists in python.
+lists are composite variables that allow storing multiple values 
+in a single structure, accessible by individual keys.
 '''
 
 num = [2, 5, 9, 1]
