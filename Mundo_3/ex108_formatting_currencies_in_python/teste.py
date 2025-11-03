@@ -1,3 +1,9 @@
+'''
+Adapt the code from challenge #107, creating an additional function called **currency()** 
+that can display numbers as a formatted monetary value.
+
+'''
+
 import moeda
 
 p = float(input('Digite o preço: R$ '))

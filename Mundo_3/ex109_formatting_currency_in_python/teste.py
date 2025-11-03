@@ -1,3 +1,10 @@
+'''
+Modify the functions created in challenge #107 so that they accept one additional parameter,
+indicating whether the value returned by them should be formatted by the **currency()** 
+function developed in challenge #108.
+
+'''
+
 import moeda
 
 p = float(input('Digite o preço: R$ '))
